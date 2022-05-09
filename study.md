@@ -25,3 +25,9 @@ for i in l1:
     print('BREAK outer loop')
     break
 ```
+
+<!-- 3桁区切り -->
+
+```Python
+    print(f'{200_000 * 200 *12:,}')
+```
